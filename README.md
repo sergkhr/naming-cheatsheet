@@ -1,4 +1,5 @@
 line for commit 1 in branch2
+line for commit 2 in branch2
 
 <p align="center">
   <a href="https://github.com/kettanaito/naming-cheatsheet">
