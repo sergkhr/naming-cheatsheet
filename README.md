@@ -3,6 +3,7 @@ line for commit 2 in both branches
 line for commit 3 in both branches
 
 more for branch1 1
+more for branch1 2
 
 
 <p align="center">
