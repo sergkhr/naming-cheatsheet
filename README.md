@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 line for commit 1 in both branches
 line for commit 2 in both branches
 line for commit 3 in both branches
-=======
-line for commit 1 in both branches
-line for commit 2 in both branches
-line for commit 3 in both branches
->>>>>>> branch2
+
+more for branch1 1
+
 
 <p align="center">
   <a href="https://github.com/kettanaito/naming-cheatsheet">
